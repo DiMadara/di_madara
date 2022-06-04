@@ -19,7 +19,12 @@ E-mail: diego_sd3@outlook.com<br>
 Linkedin:  <a href="https://www.linkedin.com/in/diego-d-souza-47b76a128/"><img alt="linkedin-diego" height="20" width="20" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=f2eeee"></a><br>
 Cel.: (11) 91483-2406<br>
 Zona Sul - São Paulo/SP<br>
-
+<div> 
+  <a href = "mailto:diego_sd3@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/__di__souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/diego-d-souza-47b76a128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
 <h1>Experiências</h1>
   <div align="left">
 <b>EMPRESA:</b> FACILPAY SA<br>
@@ -127,10 +132,6 @@ Zona Sul - São Paulo/SP<br>
   ##
  
 <div> 
-  <a href = "mailto:diego_sd3@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/__di__souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/diego-d-souza-47b76a128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
- <!-- ![Snake animation](https://github.com/dimadara/dimadara/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/dimadara/dimadara/blob/output/github-contribution-grid-snake.svg)
  -->
 </div>
