@@ -25,7 +25,7 @@ Atualmente estudando Pós em Desenvolvimento de Aplicativos Multiplataforma e MB
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   
-  <img align="right" alt="might-guy" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/13/1b/40/131b40993d1206d2351f720bf951dd90.gif">
+  <img align="right" alt="might-guy" height="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/13/1b/40/131b40993d1206d2351f720bf951dd90.gif">
 </div>
   
   ##
